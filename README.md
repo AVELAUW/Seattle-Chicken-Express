@@ -1,3 +1,3 @@
 # Seattle-Chicken-Express
 
-https://xsabilax.github.io/Seattle-Chicken-Express/ 
+Example: https://avelauw.github.io/Seattle-Chicken-Express/
